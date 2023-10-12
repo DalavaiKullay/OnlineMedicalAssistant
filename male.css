@@ -1,0 +1,6 @@
+body {
+    background: url('icons/male.jpg') center center fixed no-repeat;
+
+    /* Currently Firefox requires background-size declared separately or the background image will be blank */
+    background-size: cover;
+}

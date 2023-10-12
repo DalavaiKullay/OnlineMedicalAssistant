@@ -1,0 +1,8 @@
+body {
+    background: url('icons/female.jpg') center center fixed no-repeat;
+
+    /* Currently Firefox requires background-size declared separately or the background image will be blank */
+    background-size: cover;
+    margin-top: 100px;
+}
+

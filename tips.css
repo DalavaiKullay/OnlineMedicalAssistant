@@ -1,0 +1,35 @@
+
+body {
+    background: url('icons/tips.jpg') center center fixed no-repeat;
+
+    /* Currently Firefox requires background-size declared separately or the background image will be blank */
+    background-size: cover;
+}
+#f{
+    width: 500px;
+    margin-left: 530px;
+}
+
+input[type=text] {
+    width: 100%;
+    box-sizing: border-box;
+    
+    
+}
+#head
+{
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+color: black;
+}
+
+#k{
+    width: 100%;
+    background-color: red;
+    border: none;
+    padding: 14px 25px;
+    text-decoration: none;
+    color: white;
+    margin-bottom: 3px;
+    cursor: pointer;
+}
